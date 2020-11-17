@@ -1,0 +1,1 @@
+This deep learning model is used to give summary of the passage given as an input to the model.
